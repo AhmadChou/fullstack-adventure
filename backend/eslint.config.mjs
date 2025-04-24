@@ -19,6 +19,7 @@ export default [
       '@stylistic/js/quotes': ['error', 'single'],
       '@stylistic/js/semi': ['error', 'never'],
       eqeqeq: 'error',
+      'no-console': 'off',
     },
   },
   {
